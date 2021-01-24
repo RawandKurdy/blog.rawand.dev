@@ -1,6 +1,6 @@
 ## Mapping Your Hashnode Blog to Your Root Domain In Google Domains Without Cloudflare
 
-You just signed up for your Hashnode blog and now you want to link your custom domain in Google Domains, How can you do that? In this article you will learn how to do that without using an external (or additional) DNS provider.
+You just signed up for your Hashnode blog and now you want to link your custom domain in Google Domains, You might ask how can I do that? Well, in this article you will learn how to do that without using an external (or additional) DNS provider.
 
 ### Basically we will be doing two things
 
