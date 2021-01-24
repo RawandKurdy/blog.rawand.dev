@@ -4,8 +4,8 @@ You just signed up for your Hashnode blog and now you want to link your custom d
 
 ### Basically we will be doing two things
 
-- [Configuring Your Blog Hashnode](####on-hashnode.com) 
-- [Configuring Your Domain in Google Domains](####now-on-the-domain-registrar-site)
+- [Configuring Your Blog Hashnode](#on-hashnode.com) 
+- [Configuring Your Domain in Google Domains](#now-on-the-domain-registrar-site)
 
 
 *Let's start!
