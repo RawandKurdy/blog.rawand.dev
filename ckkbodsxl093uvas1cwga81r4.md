@@ -80,6 +80,6 @@ After you hit add, it might take a few minutes for your changes to take effect *
 
 ### Now you have your Hashnode blog up and running fine `without the help of any extra DNS provider.`
 
-if you have any questions, you can leave a comment or you can [contact me](https://rawand.dev/contact)!
+if you have any questions, you can leave a comment or you can [contact me](https://blog.rawand.dev/contact)!
 
 Now start blogging!!
